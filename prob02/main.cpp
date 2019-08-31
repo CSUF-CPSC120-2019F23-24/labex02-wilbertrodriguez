@@ -9,6 +9,7 @@ int main()
   int area;
 
   // Get the length and width of the room.
+  // Added \" in the two bottom cout lines to add quotations in the line"
   std :: cout << "What is the room's \"width\" in feet? ";
   std::cin >> width;
   std::cout << "What is the room's \"length\" in feet? ";
