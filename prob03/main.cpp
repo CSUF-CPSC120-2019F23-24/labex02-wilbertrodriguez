@@ -7,7 +7,7 @@ int main()
 {
   double mealcost,waitertip,taxes;
 
-  std::cout << "Welcome to the Restaurant Bill calculater!\n";
+  std::cout << "Welcome to the Restaurant Bill calculator!\n";
   std::cout << "What is the total meal cost? ";
   std::cin >> mealcost;
   taxes=mealcost*.0775;
