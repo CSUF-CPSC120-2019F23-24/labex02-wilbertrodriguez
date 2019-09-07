@@ -1,4 +1,4 @@
-// Name:
+// Name:wilbert rodriguez
 // This program calculates the area of a room.
 
 #include <iostream>
@@ -6,7 +6,7 @@
 int main()
 {
   double width, length;
-  int area;
+  double area;
 
   // Get the length and width of the room.
   // Added \" in the two bottom cout lines to add quotations in the line"
@@ -21,7 +21,7 @@ int main()
   // Display the area of the room.
   std::cout << "The \"area\" of the room is ";
   std::cout<< area;
-  std::cout << " square feet./n";
+  std::cout << " square feet.\n";
 
   return 0;
 }
